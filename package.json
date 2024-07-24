@@ -1,8 +1,10 @@
 {
   "name": "vue-crash-2021",
   "version": "0.1.0",
+  "homepage": "https://krwhite5.github.io/Vue",
   "private": true,
   "scripts": {
+   
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
